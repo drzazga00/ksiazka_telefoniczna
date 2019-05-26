@@ -1,4 +1,4 @@
-# Projekt hacaton pierwszy - ksiazka tele
+# Projekt hacaton I - ksiazka tele
 
 Ksiazka telefoniczna
 * wyswietlanie kontaktow
